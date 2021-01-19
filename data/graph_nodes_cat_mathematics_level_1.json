@@ -1,0 +1,172 @@
+[
+  {
+    "id": "Algebraic_geometry",
+    "name": "Algebraic geometry",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Algebraic_number_theory",
+    "name": "Algebraic number theory",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Areas_of_mathematics",
+    "name": "Areas of mathematics",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Category:Algebra",
+    "name": "Category:Algebra",
+    "category": true
+  },
+  {
+    "id": "Category:Applied_mathematics",
+    "name": "Category:Applied mathematics",
+    "category": true
+  },
+  {
+    "id": "Category:Arithmetic",
+    "name": "Category:Arithmetic",
+    "category": true
+  },
+  {
+    "id": "Category:Combinatorics",
+    "name": "Category:Combinatorics",
+    "category": true
+  },
+  {
+    "id": "Category:Computational_mathematics",
+    "name": "Category:Computational mathematics",
+    "category": true
+  },
+  {
+    "id": "Category:Discrete_mathematics",
+    "name": "Category:Discrete mathematics",
+    "category": true
+  },
+  {
+    "id": "Category:Dynamical_systems",
+    "name": "Category:Dynamical systems",
+    "category": true
+  },
+  {
+    "id": "Category:Elementary_mathematics",
+    "name": "Category:Elementary mathematics",
+    "category": true
+  },
+  {
+    "id": "Category:Experimental_mathematics",
+    "name": "Category:Experimental mathematics",
+    "category": true
+  },
+  {
+    "id": "Category:Foundations_of_mathematics",
+    "name": "Category:Foundations of mathematics",
+    "category": true
+  },
+  {
+    "id": "Category:Game_theory",
+    "name": "Category:Game theory",
+    "category": true
+  },
+  {
+    "id": "Category:Geometry",
+    "name": "Category:Geometry",
+    "category": true
+  },
+  {
+    "id": "Category:Graph_theory",
+    "name": "Category:Graph theory",
+    "category": true
+  },
+  {
+    "id": "Category:Mathematical_analysis",
+    "name": "Category:Mathematical analysis",
+    "category": true
+  },
+  {
+    "id": "Category:Mathematical_logic",
+    "name": "Category:Mathematical logic",
+    "category": true
+  },
+  {
+    "id": "Category:Mathematics_of_infinitesimals",
+    "name": "Category:Mathematics of infinitesimals",
+    "category": true
+  },
+  {
+    "id": "Category:Number_theory",
+    "name": "Category:Number theory",
+    "category": true
+  },
+  {
+    "id": "Category:Order_theory",
+    "name": "Category:Order theory",
+    "category": true
+  },
+  {
+    "id": "Category:Probability_and_statistics",
+    "name": "Category:Probability and statistics",
+    "category": true
+  },
+  {
+    "id": "Category:Recreational_mathematics",
+    "name": "Category:Recreational mathematics",
+    "category": true
+  },
+  {
+    "id": "Category:Representation_theory",
+    "name": "Category:Representation theory",
+    "category": true
+  },
+  {
+    "id": "Category:Topology",
+    "name": "Category:Topology",
+    "category": true
+  },
+  {
+    "id": "Glossary_of_areas_of_mathematics",
+    "name": "Glossary of areas of mathematics",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Glossary_of_calculus",
+    "name": "Glossary of calculus",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Outline_of_mathematics",
+    "name": "Outline of mathematics",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  }
+]

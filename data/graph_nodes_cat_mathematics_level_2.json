@@ -1,0 +1,3111 @@
+[
+  {
+    "id": "Algebraic_geometry",
+    "name": "Algebraic geometry",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Algebraic_number_theory",
+    "name": "Algebraic number theory",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Areas_of_mathematics",
+    "name": "Areas of mathematics",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Algebra",
+    "name": "Algebra",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Category:Abstract_algebra",
+    "name": "Category:Abstract algebra",
+    "category": true
+  },
+  {
+    "id": "Category:Algebra_stubs",
+    "name": "Category:Algebra stubs",
+    "category": true
+  },
+  {
+    "id": "Category:Algebraic_graph_theory",
+    "name": "Category:Algebraic graph theory",
+    "category": true
+  },
+  {
+    "id": "Category:Computer_algebra",
+    "name": "Category:Computer algebra",
+    "category": true
+  },
+  {
+    "id": "Category:Elementary_algebra",
+    "name": "Category:Elementary algebra",
+    "category": true
+  },
+  {
+    "id": "Category:History_of_algebra",
+    "name": "Category:History of algebra",
+    "category": true
+  },
+  {
+    "id": "Category:Linear_algebra",
+    "name": "Category:Linear algebra",
+    "category": true
+  },
+  {
+    "id": "Category:Mathematical_identities",
+    "name": "Category:Mathematical identities",
+    "category": true
+  },
+  {
+    "id": "Category:Polynomials",
+    "name": "Category:Polynomials",
+    "category": true
+  },
+  {
+    "id": "Category:Series_expansions",
+    "name": "Category:Series expansions",
+    "category": true
+  },
+  {
+    "id": "Category:Symmetric_functions",
+    "name": "Category:Symmetric functions",
+    "category": true
+  },
+  {
+    "id": "Category:Theorems_in_algebra",
+    "name": "Category:Theorems in algebra",
+    "category": true
+  },
+  {
+    "id": "Category:Universal_algebra",
+    "name": "Category:Universal algebra",
+    "category": true
+  },
+  {
+    "id": "Category:Variables_(mathematics)",
+    "name": "Category:Variables (mathematics)",
+    "category": true
+  },
+  {
+    "id": "Determinant",
+    "name": "Determinant",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Elementary_algebra",
+    "name": "Elementary algebra",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Equivalence_class",
+    "name": "Equivalence class",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Euler%27s_totient_function",
+    "name": "Euler's totient function",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Operand",
+    "name": "Operand",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Operation_(mathematics)",
+    "name": "Operation (mathematics)",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Operator_(mathematics)",
+    "name": "Operator (mathematics)",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Polynomial",
+    "name": "Polynomial",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Power_set",
+    "name": "Power set",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Variable_(mathematics)",
+    "name": "Variable (mathematics)",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high",
+        "stat": "high"
+      }
+    ]
+  },
+  {
+    "id": "Category:Algebra",
+    "name": "Category:Algebra",
+    "category": true
+  },
+  {
+    "id": "Applied_mathematics",
+    "name": "Applied mathematics",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Category:Actuarial_science",
+    "name": "Category:Actuarial science",
+    "category": true
+  },
+  {
+    "id": "Category:Algorithms",
+    "name": "Category:Algorithms",
+    "category": true
+  },
+  {
+    "id": "Category:Applied_mathematics_stubs",
+    "name": "Category:Applied mathematics stubs",
+    "category": true
+  },
+  {
+    "id": "Category:Applied_probability",
+    "name": "Category:Applied probability",
+    "category": true
+  },
+  {
+    "id": "Category:Applied_statistics",
+    "name": "Category:Applied statistics",
+    "category": true
+  },
+  {
+    "id": "Category:Computational_mathematics",
+    "name": "Category:Computational mathematics",
+    "category": true
+  },
+  {
+    "id": "Category:Computational_science",
+    "name": "Category:Computational science",
+    "category": true
+  },
+  {
+    "id": "Category:Cryptography",
+    "name": "Category:Cryptography",
+    "category": true
+  },
+  {
+    "id": "Category:Cybernetics",
+    "name": "Category:Cybernetics",
+    "category": true
+  },
+  {
+    "id": "Category:Inverse_problems",
+    "name": "Category:Inverse problems",
+    "category": true
+  },
+  {
+    "id": "Category:Mathematical_and_theoretical_biology",
+    "name": "Category:Mathematical and theoretical biology",
+    "category": true
+  },
+  {
+    "id": "Category:Mathematical_chemistry",
+    "name": "Category:Mathematical chemistry",
+    "category": true
+  },
+  {
+    "id": "Category:Mathematical_economics",
+    "name": "Category:Mathematical economics",
+    "category": true
+  },
+  {
+    "id": "Category:Mathematical_finance",
+    "name": "Category:Mathematical finance",
+    "category": true
+  },
+  {
+    "id": "Category:Mathematical_modeling",
+    "name": "Category:Mathematical modeling",
+    "category": true
+  },
+  {
+    "id": "Category:Mathematical_physics",
+    "name": "Category:Mathematical physics",
+    "category": true
+  },
+  {
+    "id": "Category:Mathematical_psychology",
+    "name": "Category:Mathematical psychology",
+    "category": true
+  },
+  {
+    "id": "Category:Mathematics_in_medicine",
+    "name": "Category:Mathematics in medicine",
+    "category": true
+  },
+  {
+    "id": "Category:Mathematics_of_music",
+    "name": "Category:Mathematics of music",
+    "category": true
+  },
+  {
+    "id": "Category:Operations_research",
+    "name": "Category:Operations research",
+    "category": true
+  },
+  {
+    "id": "Category:Theoretical_computer_science",
+    "name": "Category:Theoretical computer science",
+    "category": true
+  },
+  {
+    "id": "Combinatorics",
+    "name": "Combinatorics",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Cryptography",
+    "name": "Cryptography",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top",
+        "csci": "top"
+      }
+    ]
+  },
+  {
+    "id": "Game_theory",
+    "name": "Game theory",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high",
+        "econ": "high"
+      }
+    ]
+  },
+  {
+    "id": "Graph_theory",
+    "name": "Graph theory",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top",
+        "csci": "top"
+      }
+    ]
+  },
+  {
+    "id": "Information_theory",
+    "name": "Information theory",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top",
+        "stat": "top",
+        "csci": "top",
+        "comp": "mid"
+      }
+    ]
+  },
+  {
+    "id": "Linear_programming",
+    "name": "Linear programming",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high",
+        "csci": "high"
+      }
+    ]
+  },
+  {
+    "id": "Network_theory",
+    "name": "Network theory",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Numerical_analysis",
+    "name": "Numerical analysis",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top",
+        "csci": "top"
+      }
+    ]
+  },
+  {
+    "id": "Operations_research",
+    "name": "Operations research",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high",
+        "stat": "top",
+        "csci": "high"
+      }
+    ]
+  },
+  {
+    "id": "Probability",
+    "name": "Probability",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top",
+        "stat": "top",
+        "phys": "mid"
+      }
+    ]
+  },
+  {
+    "id": "Statistics",
+    "name": "Statistics",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top",
+        "stat": "top"
+      }
+    ]
+  },
+  {
+    "id": "Category:Applied_mathematics",
+    "name": "Category:Applied mathematics",
+    "category": true
+  },
+  {
+    "id": "Category:Addition",
+    "name": "Category:Addition",
+    "category": true
+  },
+  {
+    "id": "Category:Binary_arithmetic",
+    "name": "Category:Binary arithmetic",
+    "category": true
+  },
+  {
+    "id": "Category:Comparison_(mathematical)",
+    "name": "Category:Comparison (mathematical)",
+    "category": true
+  },
+  {
+    "id": "Category:Computer_arithmetic",
+    "name": "Category:Computer arithmetic",
+    "category": true
+  },
+  {
+    "id": "Category:Division_(mathematics)",
+    "name": "Category:Division (mathematics)",
+    "category": true
+  },
+  {
+    "id": "Category:Elementary_arithmetic",
+    "name": "Category:Elementary arithmetic",
+    "category": true
+  },
+  {
+    "id": "Category:Formal_theories_of_arithmetic",
+    "name": "Category:Formal theories of arithmetic",
+    "category": true
+  },
+  {
+    "id": "Category:Fractions_(mathematics)",
+    "name": "Category:Fractions (mathematics)",
+    "category": true
+  },
+  {
+    "id": "Category:Mental_calculation",
+    "name": "Category:Mental calculation",
+    "category": true
+  },
+  {
+    "id": "Category:Multiplication",
+    "name": "Category:Multiplication",
+    "category": true
+  },
+  {
+    "id": "Category:Numbers",
+    "name": "Category:Numbers",
+    "category": true
+  },
+  {
+    "id": "Category:Ratios",
+    "name": "Category:Ratios",
+    "category": true
+  },
+  {
+    "id": "Category:Subtraction",
+    "name": "Category:Subtraction",
+    "category": true
+  },
+  {
+    "id": "Euclidean_division",
+    "name": "Euclidean division",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Least_common_multiple",
+    "name": "Least common multiple",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Number",
+    "name": "Number",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Significant_figures",
+    "name": "Significant figures",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Summation",
+    "name": "Summation",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Category:Arithmetic",
+    "name": "Category:Arithmetic",
+    "category": true
+  },
+  {
+    "id": "Category:Additive_combinatorics",
+    "name": "Category:Additive combinatorics",
+    "category": true
+  },
+  {
+    "id": "Category:Algebraic_combinatorics",
+    "name": "Category:Algebraic combinatorics",
+    "category": true
+  },
+  {
+    "id": "Category:Combinatorial_algorithms",
+    "name": "Category:Combinatorial algorithms",
+    "category": true
+  },
+  {
+    "id": "Category:Combinatorial_chemistry",
+    "name": "Category:Combinatorial chemistry",
+    "category": true
+  },
+  {
+    "id": "Category:Combinatorial_design",
+    "name": "Category:Combinatorial design",
+    "category": true
+  },
+  {
+    "id": "Category:Combinatorial_game_theory",
+    "name": "Category:Combinatorial game theory",
+    "category": true
+  },
+  {
+    "id": "Category:Combinatorics_journals",
+    "name": "Category:Combinatorics journals",
+    "category": true
+  },
+  {
+    "id": "Category:Combinatorics_on_words",
+    "name": "Category:Combinatorics on words",
+    "category": true
+  },
+  {
+    "id": "Category:Combinatorics_stubs",
+    "name": "Category:Combinatorics stubs",
+    "category": true
+  },
+  {
+    "id": "Category:Enumerative_combinatorics",
+    "name": "Category:Enumerative combinatorics",
+    "category": true
+  },
+  {
+    "id": "Category:Factorial_and_binomial_topics",
+    "name": "Category:Factorial and binomial topics",
+    "category": true
+  },
+  {
+    "id": "Category:Graph_theory",
+    "name": "Category:Graph theory",
+    "category": true
+  },
+  {
+    "id": "Category:Incidence_geometry",
+    "name": "Category:Incidence geometry",
+    "category": true
+  },
+  {
+    "id": "Category:Integer_sequences",
+    "name": "Category:Integer sequences",
+    "category": true
+  },
+  {
+    "id": "Category:Matroid_theory",
+    "name": "Category:Matroid theory",
+    "category": true
+  },
+  {
+    "id": "Category:Percolation_theory",
+    "name": "Category:Percolation theory",
+    "category": true
+  },
+  {
+    "id": "Category:Permutations",
+    "name": "Category:Permutations",
+    "category": true
+  },
+  {
+    "id": "Category:Polyhedral_combinatorics",
+    "name": "Category:Polyhedral combinatorics",
+    "category": true
+  },
+  {
+    "id": "Category:Q-analogs",
+    "name": "Category:Q-analogs",
+    "category": true
+  },
+  {
+    "id": "Category:Ramsey_theory",
+    "name": "Category:Ramsey theory",
+    "category": true
+  },
+  {
+    "id": "Category:Set_families",
+    "name": "Category:Set families",
+    "category": true
+  },
+  {
+    "id": "Category:Sieve_theory",
+    "name": "Category:Sieve theory",
+    "category": true
+  },
+  {
+    "id": "Category:Sparse_matrices",
+    "name": "Category:Sparse matrices",
+    "category": true
+  },
+  {
+    "id": "Category:Special_functions",
+    "name": "Category:Special functions",
+    "category": true
+  },
+  {
+    "id": "Category:Sumsets",
+    "name": "Category:Sumsets",
+    "category": true
+  },
+  {
+    "id": "Category:Theorems_in_combinatorics",
+    "name": "Category:Theorems in combinatorics",
+    "category": true
+  },
+  {
+    "id": "Combination",
+    "name": "Combination",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Partition_of_a_set",
+    "name": "Partition of a set",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Pigeonhole_principle",
+    "name": "Pigeonhole principle",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Rule_of_product",
+    "name": "Rule of product",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Category:Combinatorics",
+    "name": "Category:Combinatorics",
+    "category": true
+  },
+  {
+    "id": "Category:Automated_theorem_proving",
+    "name": "Category:Automated theorem proving",
+    "category": true
+  },
+  {
+    "id": "Category:Combinatorial_algorithms",
+    "name": "Category:Combinatorial algorithms",
+    "category": true
+  },
+  {
+    "id": "Category:Computational_geometry",
+    "name": "Category:Computational geometry",
+    "category": true
+  },
+  {
+    "id": "Category:Computational_number_theory",
+    "name": "Category:Computational number theory",
+    "category": true
+  },
+  {
+    "id": "Category:Computational_problems_in_graph_theory",
+    "name": "Category:Computational problems in graph theory",
+    "category": true
+  },
+  {
+    "id": "Category:Computational_statistics",
+    "name": "Category:Computational statistics",
+    "category": true
+  },
+  {
+    "id": "Category:Computational_topology",
+    "name": "Category:Computational topology",
+    "category": true
+  },
+  {
+    "id": "Category:Computer_algebra",
+    "name": "Category:Computer algebra",
+    "category": true
+  },
+  {
+    "id": "Category:Numerical_analysis",
+    "name": "Category:Numerical analysis",
+    "category": true
+  },
+  {
+    "id": "Category:Computational_mathematics",
+    "name": "Category:Computational mathematics",
+    "category": true
+  },
+  {
+    "id": "Category:Coding_theory",
+    "name": "Category:Coding theory",
+    "category": true
+  },
+  {
+    "id": "Category:Combinatorics",
+    "name": "Category:Combinatorics",
+    "category": true
+  },
+  {
+    "id": "Category:Discrete_geometry",
+    "name": "Category:Discrete geometry",
+    "category": true
+  },
+  {
+    "id": "Category:Graph_theory",
+    "name": "Category:Graph theory",
+    "category": true
+  },
+  {
+    "id": "Category:Number_theory",
+    "name": "Category:Number theory",
+    "category": true
+  },
+  {
+    "id": "Category:Theorems_in_discrete_mathematics",
+    "name": "Category:Theorems in discrete mathematics",
+    "category": true
+  },
+  {
+    "id": "Continuous_function",
+    "name": "Continuous function",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Discrete_mathematics",
+    "name": "Discrete mathematics",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top",
+        "csci": "top"
+      }
+    ]
+  },
+  {
+    "id": "Graph_(discrete_mathematics)",
+    "name": "Graph (discrete mathematics)",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top",
+        "csci": "high"
+      }
+    ]
+  },
+  {
+    "id": "Integer",
+    "name": "Integer",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Outline_of_discrete_mathematics",
+    "name": "Outline of discrete mathematics",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Category:Discrete_mathematics",
+    "name": "Category:Discrete mathematics",
+    "category": true
+  },
+  {
+    "id": "Arithmetic_dynamics",
+    "name": "Arithmetic dynamics",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Category:Arithmetic_dynamics",
+    "name": "Category:Arithmetic dynamics",
+    "category": true
+  },
+  {
+    "id": "Category:Astronomical_dynamical_systems",
+    "name": "Category:Astronomical dynamical systems",
+    "category": true
+  },
+  {
+    "id": "Category:Bifurcation_theory",
+    "name": "Category:Bifurcation theory",
+    "category": true
+  },
+  {
+    "id": "Category:Chaos_theory",
+    "name": "Category:Chaos theory",
+    "category": true
+  },
+  {
+    "id": "Category:Chaotic_maps",
+    "name": "Category:Chaotic maps",
+    "category": true
+  },
+  {
+    "id": "Category:Complex_dynamics",
+    "name": "Category:Complex dynamics",
+    "category": true
+  },
+  {
+    "id": "Category:Control_engineering",
+    "name": "Category:Control engineering",
+    "category": true
+  },
+  {
+    "id": "Category:Critical_phenomena",
+    "name": "Category:Critical phenomena",
+    "category": true
+  },
+  {
+    "id": "Category:Electrodynamics",
+    "name": "Category:Electrodynamics",
+    "category": true
+  },
+  {
+    "id": "Category:Entropy",
+    "name": "Category:Entropy",
+    "category": true
+  },
+  {
+    "id": "Category:Entropy_and_information",
+    "name": "Category:Entropy and information",
+    "category": true
+  },
+  {
+    "id": "Category:Ergodic_theory",
+    "name": "Category:Ergodic theory",
+    "category": true
+  },
+  {
+    "id": "Category:Fixed_points_(mathematics)",
+    "name": "Category:Fixed points (mathematics)",
+    "category": true
+  },
+  {
+    "id": "Category:Hamiltonian_mechanics",
+    "name": "Category:Hamiltonian mechanics",
+    "category": true
+  },
+  {
+    "id": "Category:Hidden_oscillation",
+    "name": "Category:Hidden oscillation",
+    "category": true
+  },
+  {
+    "id": "Category:Limit_sets",
+    "name": "Category:Limit sets",
+    "category": true
+  },
+  {
+    "id": "Category:Non-equilibrium_thermodynamics",
+    "name": "Category:Non-equilibrium thermodynamics",
+    "category": true
+  },
+  {
+    "id": "Category:Nonlinear_systems",
+    "name": "Category:Nonlinear systems",
+    "category": true
+  },
+  {
+    "id": "Category:Random_dynamical_systems",
+    "name": "Category:Random dynamical systems",
+    "category": true
+  },
+  {
+    "id": "Category:Self-organization",
+    "name": "Category:Self-organization",
+    "category": true
+  },
+  {
+    "id": "Category:Stability_theory",
+    "name": "Category:Stability theory",
+    "category": true
+  },
+  {
+    "id": "Category:Symbolic_dynamics",
+    "name": "Category:Symbolic dynamics",
+    "category": true
+  },
+  {
+    "id": "Category:Theorems_in_dynamical_systems",
+    "name": "Category:Theorems in dynamical systems",
+    "category": true
+  },
+  {
+    "id": "Category:Thermodynamic_systems",
+    "name": "Category:Thermodynamic systems",
+    "category": true
+  },
+  {
+    "id": "Category:Thermodynamics",
+    "name": "Category:Thermodynamics",
+    "category": true
+  },
+  {
+    "id": "Category:Topological_dynamics",
+    "name": "Category:Topological dynamics",
+    "category": true
+  },
+  {
+    "id": "Category:Vortices",
+    "name": "Category:Vortices",
+    "category": true
+  },
+  {
+    "id": "Dynamical_system",
+    "name": "Dynamical system",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top",
+        "phys": "mid"
+      }
+    ]
+  },
+  {
+    "id": "Fractal_dimension",
+    "name": "Fractal dimension",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high",
+        "phys": "low"
+      }
+    ]
+  },
+  {
+    "id": "Hamiltonian_mechanics",
+    "name": "Hamiltonian mechanics",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high",
+        "phys": "high"
+      }
+    ]
+  },
+  {
+    "id": "Integrable_system",
+    "name": "Integrable system",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high",
+        "phys": "mid"
+      }
+    ]
+  },
+  {
+    "id": "Partial_differential_equation",
+    "name": "Partial differential equation",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Phase_space",
+    "name": "Phase space",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high",
+        "phys": "high"
+      }
+    ]
+  },
+  {
+    "id": "Category:Dynamical_systems",
+    "name": "Category:Dynamical systems",
+    "category": true
+  },
+  {
+    "id": "Calculus",
+    "name": "Calculus",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Cartesian_coordinate_system",
+    "name": "Cartesian coordinate system",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Category:Elementary_algebra",
+    "name": "Category:Elementary algebra",
+    "category": true
+  },
+  {
+    "id": "Category:Elementary_arithmetic",
+    "name": "Category:Elementary arithmetic",
+    "category": true
+  },
+  {
+    "id": "Category:Elementary_geometry",
+    "name": "Category:Elementary geometry",
+    "category": true
+  },
+  {
+    "id": "Category:Elementary_number_theory",
+    "name": "Category:Elementary number theory",
+    "category": true
+  },
+  {
+    "id": "Category:Integers",
+    "name": "Category:Integers",
+    "category": true
+  },
+  {
+    "id": "Distance",
+    "name": "Distance",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high",
+        "phys": "high"
+      }
+    ]
+  },
+  {
+    "id": "Elementary_mathematics",
+    "name": "Elementary mathematics",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Function_(mathematics)",
+    "name": "Function (mathematics)",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Geometry",
+    "name": "Geometry",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Identity_function",
+    "name": "Identity function",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Magnitude_(mathematics)",
+    "name": "Magnitude (mathematics)",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Mathematical_analysis",
+    "name": "Mathematical analysis",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Natural_number",
+    "name": "Natural number",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Number_theory",
+    "name": "Number theory",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Order_of_magnitude",
+    "name": "Order of magnitude",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Periodic_function",
+    "name": "Periodic function",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Rational_number",
+    "name": "Rational number",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Real_number",
+    "name": "Real number",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Sequence",
+    "name": "Sequence",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Square_root",
+    "name": "Square root",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Zero_of_a_function",
+    "name": "Zero of a function",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Category:Elementary_mathematics",
+    "name": "Category:Elementary mathematics",
+    "category": true
+  },
+  {
+    "id": "Experimental_mathematics",
+    "name": "Experimental mathematics",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Category:Experimental_mathematics",
+    "name": "Category:Experimental mathematics",
+    "category": true
+  },
+  {
+    "id": "Category:Theorems_in_the_foundations_of_mathematics",
+    "name": "Category:Theorems in the foundations of mathematics",
+    "category": true
+  },
+  {
+    "id": "Foundations_of_mathematics",
+    "name": "Foundations of mathematics",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Zermelo%E2%80%93Fraenkel_set_theory",
+    "name": "ZermeloFraenkel set theory",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Category:Foundations_of_mathematics",
+    "name": "Category:Foundations of mathematics",
+    "category": true
+  },
+  {
+    "id": "Category:Bargaining_theory",
+    "name": "Category:Bargaining theory",
+    "category": true
+  },
+  {
+    "id": "Category:Books_about_game_theory",
+    "name": "Category:Books about game theory",
+    "category": true
+  },
+  {
+    "id": "Category:Chess_theory",
+    "name": "Category:Chess theory",
+    "category": true
+  },
+  {
+    "id": "Category:Combinatorial_game_theory",
+    "name": "Category:Combinatorial game theory",
+    "category": true
+  },
+  {
+    "id": "Category:Cooperative_games",
+    "name": "Category:Cooperative games",
+    "category": true
+  },
+  {
+    "id": "Category:Evolutionary_game_theory",
+    "name": "Category:Evolutionary game theory",
+    "category": true
+  },
+  {
+    "id": "Category:Fair_division",
+    "name": "Category:Fair division",
+    "category": true
+  },
+  {
+    "id": "Category:Gambling_mathematics",
+    "name": "Category:Gambling mathematics",
+    "category": true
+  },
+  {
+    "id": "Category:Game_artificial_intelligence",
+    "name": "Category:Game artificial intelligence",
+    "category": true
+  },
+  {
+    "id": "Category:Game_design",
+    "name": "Category:Game design",
+    "category": true
+  },
+  {
+    "id": "Category:Game_theory_equilibrium_concepts",
+    "name": "Category:Game theory equilibrium concepts",
+    "category": true
+  },
+  {
+    "id": "Category:Game_theory_game_classes",
+    "name": "Category:Game theory game classes",
+    "category": true
+  },
+  {
+    "id": "Category:Martingale_theory",
+    "name": "Category:Martingale theory",
+    "category": true
+  },
+  {
+    "id": "Category:Mechanism_design",
+    "name": "Category:Mechanism design",
+    "category": true
+  },
+  {
+    "id": "Category:Non-cooperative_games",
+    "name": "Category:Non-cooperative games",
+    "category": true
+  },
+  {
+    "id": "Category:Poker_strategy",
+    "name": "Category:Poker strategy",
+    "category": true
+  },
+  {
+    "id": "Category:Pursuit-evasion",
+    "name": "Category:Pursuit-evasion",
+    "category": true
+  },
+  {
+    "id": "Category:Shogi_theory",
+    "name": "Category:Shogi theory",
+    "category": true
+  },
+  {
+    "id": "Category:Social_deduction_games",
+    "name": "Category:Social deduction games",
+    "category": true
+  },
+  {
+    "id": "Category:Strategy",
+    "name": "Category:Strategy",
+    "category": true
+  },
+  {
+    "id": "Category:Topological_games",
+    "name": "Category:Topological games",
+    "category": true
+  },
+  {
+    "id": "Category:Tragedy_of_the_commons",
+    "name": "Category:Tragedy of the commons",
+    "category": true
+  },
+  {
+    "id": "Category:Game_theory",
+    "name": "Category:Game theory",
+    "category": true
+  },
+  {
+    "id": "Angular_unit",
+    "name": "Angular unit",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high",
+        "phys": "low"
+      }
+    ]
+  },
+  {
+    "id": "Axiom",
+    "name": "Axiom",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Category:Duality_theories",
+    "name": "Category:Duality theories",
+    "category": true
+  },
+  {
+    "id": "Category:Geometric_measurement",
+    "name": "Category:Geometric measurement",
+    "category": true
+  },
+  {
+    "id": "Category:Geometric_objects",
+    "name": "Category:Geometric objects",
+    "category": true
+  },
+  {
+    "id": "Category:Geometry_in_computer_vision",
+    "name": "Category:Geometry in computer vision",
+    "category": true
+  },
+  {
+    "id": "Category:Geometry_stubs",
+    "name": "Category:Geometry stubs",
+    "category": true
+  },
+  {
+    "id": "Category:History_of_geometry",
+    "name": "Category:History of geometry",
+    "category": true
+  },
+  {
+    "id": "Category:Homogeneous_spaces",
+    "name": "Category:Homogeneous spaces",
+    "category": true
+  },
+  {
+    "id": "Category:Orientation_(geometry)",
+    "name": "Category:Orientation (geometry)",
+    "category": true
+  },
+  {
+    "id": "Category:Space",
+    "name": "Category:Space",
+    "category": true
+  },
+  {
+    "id": "Category:Symmetry",
+    "name": "Category:Symmetry",
+    "category": true
+  },
+  {
+    "id": "Category:Theorems_in_geometry",
+    "name": "Category:Theorems in geometry",
+    "category": true
+  },
+  {
+    "id": "Category:Topology",
+    "name": "Category:Topology",
+    "category": true
+  },
+  {
+    "id": "Category:Transformation_(function)",
+    "name": "Category:Transformation (function)",
+    "category": true
+  },
+  {
+    "id": "Curve",
+    "name": "Curve",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Minkowski_space",
+    "name": "Minkowski space",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high",
+        "phys": "high"
+      }
+    ]
+  },
+  {
+    "id": "Point_(geometry)",
+    "name": "Point (geometry)",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Surface_(mathematics)",
+    "name": "Surface (mathematics)",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Symmetry",
+    "name": "Symmetry",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high",
+        "phys": "high"
+      }
+    ]
+  },
+  {
+    "id": "Category:Geometry",
+    "name": "Category:Geometry",
+    "category": true
+  },
+  {
+    "id": "Category:Algebraic_graph_theory",
+    "name": "Category:Algebraic graph theory",
+    "category": true
+  },
+  {
+    "id": "Category:Computational_problems_in_graph_theory",
+    "name": "Category:Computational problems in graph theory",
+    "category": true
+  },
+  {
+    "id": "Category:Extensions_and_generalizations_of_graphs",
+    "name": "Category:Extensions and generalizations of graphs",
+    "category": true
+  },
+  {
+    "id": "Category:Extremal_graph_theory",
+    "name": "Category:Extremal graph theory",
+    "category": true
+  },
+  {
+    "id": "Category:Geometric_graph_theory",
+    "name": "Category:Geometric graph theory",
+    "category": true
+  },
+  {
+    "id": "Category:Graph_coloring",
+    "name": "Category:Graph coloring",
+    "category": true
+  },
+  {
+    "id": "Category:Graph_connectivity",
+    "name": "Category:Graph connectivity",
+    "category": true
+  },
+  {
+    "id": "Category:Graph_databases",
+    "name": "Category:Graph databases",
+    "category": true
+  },
+  {
+    "id": "Category:Graph_description_languages",
+    "name": "Category:Graph description languages",
+    "category": true
+  },
+  {
+    "id": "Category:Graph_enumeration",
+    "name": "Category:Graph enumeration",
+    "category": true
+  },
+  {
+    "id": "Category:Graph_invariants",
+    "name": "Category:Graph invariants",
+    "category": true
+  },
+  {
+    "id": "Category:Graph_minor_theory",
+    "name": "Category:Graph minor theory",
+    "category": true
+  },
+  {
+    "id": "Category:Graph_operations",
+    "name": "Category:Graph operations",
+    "category": true
+  },
+  {
+    "id": "Category:Graph_rewriting",
+    "name": "Category:Graph rewriting",
+    "category": true
+  },
+  {
+    "id": "Category:Graph_theory_objects",
+    "name": "Category:Graph theory objects",
+    "category": true
+  },
+  {
+    "id": "Category:Graphs",
+    "name": "Category:Graphs",
+    "category": true
+  },
+  {
+    "id": "Category:Matching_(graph_theory)",
+    "name": "Category:Matching (graph theory)",
+    "category": true
+  },
+  {
+    "id": "Category:Mathematical_chemistry",
+    "name": "Category:Mathematical chemistry",
+    "category": true
+  },
+  {
+    "id": "Category:Network_theory",
+    "name": "Category:Network theory",
+    "category": true
+  },
+  {
+    "id": "Category:Random_graphs",
+    "name": "Category:Random graphs",
+    "category": true
+  },
+  {
+    "id": "Category:Theorems_in_graph_theory",
+    "name": "Category:Theorems in graph theory",
+    "category": true
+  },
+  {
+    "id": "Category:Topological_graph_theory",
+    "name": "Category:Topological graph theory",
+    "category": true
+  },
+  {
+    "id": "Graph_coloring",
+    "name": "Graph coloring",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high",
+        "csci": "mid"
+      }
+    ]
+  },
+  {
+    "id": "Markov_chain",
+    "name": "Markov chain",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top",
+        "stat": "top"
+      }
+    ]
+  },
+  {
+    "id": "Random_graph",
+    "name": "Random graph",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high",
+        "stat": "mid"
+      }
+    ]
+  },
+  {
+    "id": "Category:Graph_theory",
+    "name": "Category:Graph theory",
+    "category": true
+  },
+  {
+    "id": "Asymptote",
+    "name": "Asymptote",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Category:Asymptotic_analysis",
+    "name": "Category:Asymptotic analysis",
+    "category": true
+  },
+  {
+    "id": "Category:Differential_operators",
+    "name": "Category:Differential operators",
+    "category": true
+  },
+  {
+    "id": "Category:Finite_differences",
+    "name": "Category:Finite differences",
+    "category": true
+  },
+  {
+    "id": "Category:Fixed_points_(mathematics)",
+    "name": "Category:Fixed points (mathematics)",
+    "category": true
+  },
+  {
+    "id": "Category:Fractals",
+    "name": "Category:Fractals",
+    "category": true
+  },
+  {
+    "id": "Category:Functional_equations",
+    "name": "Category:Functional equations",
+    "category": true
+  },
+  {
+    "id": "Category:Functions_and_mappings",
+    "name": "Category:Functions and mappings",
+    "category": true
+  },
+  {
+    "id": "Category:Mathematical_analysis_stubs",
+    "name": "Category:Mathematical analysis stubs",
+    "category": true
+  },
+  {
+    "id": "Category:Mathematical_optimization",
+    "name": "Category:Mathematical optimization",
+    "category": true
+  },
+  {
+    "id": "Category:Mathematical_relations",
+    "name": "Category:Mathematical relations",
+    "category": true
+  },
+  {
+    "id": "Category:Means",
+    "name": "Category:Means",
+    "category": true
+  },
+  {
+    "id": "Category:Moment_(mathematics)",
+    "name": "Category:Moment (mathematics)",
+    "category": true
+  },
+  {
+    "id": "Category:Norms_(mathematics)",
+    "name": "Category:Norms (mathematics)",
+    "category": true
+  },
+  {
+    "id": "Category:Sequences_and_series",
+    "name": "Category:Sequences and series",
+    "category": true
+  },
+  {
+    "id": "Category:Series_expansions",
+    "name": "Category:Series expansions",
+    "category": true
+  },
+  {
+    "id": "Category:Theorems_in_analysis",
+    "name": "Category:Theorems in analysis",
+    "category": true
+  },
+  {
+    "id": "Cauchy%E2%80%93Schwarz_inequality",
+    "name": "CauchySchwarz inequality",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high",
+        "stat": "mid"
+      }
+    ]
+  },
+  {
+    "id": "Complex_number",
+    "name": "Complex number",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Continued_fraction",
+    "name": "Continued fraction",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Derivative",
+    "name": "Derivative",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Finite_difference",
+    "name": "Finite difference",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Function_of_a_real_variable",
+    "name": "Function of a real variable",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Function_of_several_real_variables",
+    "name": "Function of several real variables",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Integral",
+    "name": "Integral",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Maxima_and_minima",
+    "name": "Maxima and minima",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Metric_space",
+    "name": "Metric space",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Monodromy",
+    "name": "Monodromy",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Neighbourhood_(mathematics)",
+    "name": "Neighbourhood (mathematics)",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Partition_of_an_interval",
+    "name": "Partition of an interval",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Principle_of_permanence",
+    "name": "Principle of permanence",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Category:Mathematical_analysis",
+    "name": "Category:Mathematical analysis",
+    "category": true
+  },
+  {
+    "id": "Algorithm",
+    "name": "Algorithm",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top",
+        "csci": "top",
+        "comp": "top"
+      }
+    ]
+  },
+  {
+    "id": "Category:Algebraic_logic",
+    "name": "Category:Algebraic logic",
+    "category": true
+  },
+  {
+    "id": "Category:Algorithms",
+    "name": "Category:Algorithms",
+    "category": true
+  },
+  {
+    "id": "Category:Automated_theorem_proving",
+    "name": "Category:Automated theorem proving",
+    "category": true
+  },
+  {
+    "id": "Category:Boolean_algebra",
+    "name": "Category:Boolean algebra",
+    "category": true
+  },
+  {
+    "id": "Category:Categorical_logic",
+    "name": "Category:Categorical logic",
+    "category": true
+  },
+  {
+    "id": "Category:Classical_logic",
+    "name": "Category:Classical logic",
+    "category": true
+  },
+  {
+    "id": "Category:Computability_theory",
+    "name": "Category:Computability theory",
+    "category": true
+  },
+  {
+    "id": "Category:Constructivism_(mathematics)",
+    "name": "Category:Constructivism (mathematics)",
+    "category": true
+  },
+  {
+    "id": "Category:Forcing_(mathematics)",
+    "name": "Category:Forcing (mathematics)",
+    "category": true
+  },
+  {
+    "id": "Category:Formal_systems",
+    "name": "Category:Formal systems",
+    "category": true
+  },
+  {
+    "id": "Category:Formal_theories_of_arithmetic",
+    "name": "Category:Formal theories of arithmetic",
+    "category": true
+  },
+  {
+    "id": "Category:Independence_results",
+    "name": "Category:Independence results",
+    "category": true
+  },
+  {
+    "id": "Category:Large-scale_mathematical_formalization_projects",
+    "name": "Category:Large-scale mathematical formalization projects",
+    "category": true
+  },
+  {
+    "id": "Category:Logic_in_computer_science",
+    "name": "Category:Logic in computer science",
+    "category": true
+  },
+  {
+    "id": "Category:Logical_calculi",
+    "name": "Category:Logical calculi",
+    "category": true
+  },
+  {
+    "id": "Category:Mathematical_axioms",
+    "name": "Category:Mathematical axioms",
+    "category": true
+  },
+  {
+    "id": "Category:Mathematical_logic_hierarchies",
+    "name": "Category:Mathematical logic hierarchies",
+    "category": true
+  },
+  {
+    "id": "Category:Mathematical_logic_organizations",
+    "name": "Category:Mathematical logic organizations",
+    "category": true
+  },
+  {
+    "id": "Category:Mathematical_logic_stubs",
+    "name": "Category:Mathematical logic stubs",
+    "category": true
+  },
+  {
+    "id": "Category:Modal_logic",
+    "name": "Category:Modal logic",
+    "category": true
+  },
+  {
+    "id": "Category:Model_theory",
+    "name": "Category:Model theory",
+    "category": true
+  },
+  {
+    "id": "Category:Non-classical_logic",
+    "name": "Category:Non-classical logic",
+    "category": true
+  },
+  {
+    "id": "Category:Predicate_logic",
+    "name": "Category:Predicate logic",
+    "category": true
+  },
+  {
+    "id": "Category:Proof_theory",
+    "name": "Category:Proof theory",
+    "category": true
+  },
+  {
+    "id": "Category:Quantification_(science)",
+    "name": "Category:Quantification (science)",
+    "category": true
+  },
+  {
+    "id": "Category:Recursion",
+    "name": "Category:Recursion",
+    "category": true
+  },
+  {
+    "id": "Category:Set_theory",
+    "name": "Category:Set theory",
+    "category": true
+  },
+  {
+    "id": "Category:Substitution_(logic)",
+    "name": "Category:Substitution (logic)",
+    "category": true
+  },
+  {
+    "id": "Category:Theorems_in_the_foundations_of_mathematics",
+    "name": "Category:Theorems in the foundations of mathematics",
+    "category": true
+  },
+  {
+    "id": "Category:Type_theory",
+    "name": "Category:Type theory",
+    "category": true
+  },
+  {
+    "id": "Completeness_(logic)",
+    "name": "Completeness (logic)",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Contraposition",
+    "name": "Contraposition",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Entscheidungsproblem",
+    "name": "Entscheidungsproblem",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Equality_(mathematics)",
+    "name": "Equality (mathematics)",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Finitary_relation",
+    "name": "Finitary relation",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "G%C3%B6del%27s_incompleteness_theorems",
+    "name": "Gdel's incompleteness theorems",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "G%C3%B6del_numbering",
+    "name": "Gdel numbering",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Indicator_function",
+    "name": "Indicator function",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Mathematical_logic",
+    "name": "Mathematical logic",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Mathematical_proof",
+    "name": "Mathematical proof",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Metamathematics",
+    "name": "Metamathematics",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Proof_theory",
+    "name": "Proof theory",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Set_theory",
+    "name": "Set theory",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Structure_(mathematical_logic)",
+    "name": "Structure (mathematical logic)",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Category:Mathematical_logic",
+    "name": "Category:Mathematical logic",
+    "category": true
+  },
+  {
+    "id": "Category:History_of_calculus",
+    "name": "Category:History of calculus",
+    "category": true
+  },
+  {
+    "id": "Category:Nonstandard_analysis",
+    "name": "Category:Nonstandard analysis",
+    "category": true
+  },
+  {
+    "id": "Gottfried_Wilhelm_Leibniz",
+    "name": "Gottfried Wilhelm Leibniz",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top",
+        "phys": "mid"
+      }
+    ]
+  },
+  {
+    "id": "Category:Mathematics_of_infinitesimals",
+    "name": "Category:Mathematics of infinitesimals",
+    "category": true
+  },
+  {
+    "id": "Abc_conjecture",
+    "name": "abc conjecture",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Birch_and_Swinnerton-Dyer_conjecture",
+    "name": "Birch and Swinnerton-Dyer conjecture",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Category:Algebraic_number_theory",
+    "name": "Category:Algebraic number theory",
+    "category": true
+  },
+  {
+    "id": "Category:Analytic_number_theory",
+    "name": "Category:Analytic number theory",
+    "category": true
+  },
+  {
+    "id": "Category:Arithmetic_dynamics",
+    "name": "Category:Arithmetic dynamics",
+    "category": true
+  },
+  {
+    "id": "Category:Arithmetic_functions",
+    "name": "Category:Arithmetic functions",
+    "category": true
+  },
+  {
+    "id": "Category:Arithmetic_geometry",
+    "name": "Category:Arithmetic geometry",
+    "category": true
+  },
+  {
+    "id": "Category:Computational_number_theory",
+    "name": "Category:Computational number theory",
+    "category": true
+  },
+  {
+    "id": "Category:Continued_fractions",
+    "name": "Category:Continued fractions",
+    "category": true
+  },
+  {
+    "id": "Category:Diophantine_approximation",
+    "name": "Category:Diophantine approximation",
+    "category": true
+  },
+  {
+    "id": "Category:Diophantine_equations",
+    "name": "Category:Diophantine equations",
+    "category": true
+  },
+  {
+    "id": "Category:Elementary_number_theory",
+    "name": "Category:Elementary number theory",
+    "category": true
+  },
+  {
+    "id": "Category:Geometry_of_numbers",
+    "name": "Category:Geometry of numbers",
+    "category": true
+  },
+  {
+    "id": "Category:Integer_sequences",
+    "name": "Category:Integer sequences",
+    "category": true
+  },
+  {
+    "id": "Category:Langlands_program",
+    "name": "Category:Langlands program",
+    "category": true
+  },
+  {
+    "id": "Category:Lattice_points",
+    "name": "Category:Lattice points",
+    "category": true
+  },
+  {
+    "id": "Category:Modular_arithmetic",
+    "name": "Category:Modular arithmetic",
+    "category": true
+  },
+  {
+    "id": "Category:Modular_forms",
+    "name": "Category:Modular forms",
+    "category": true
+  },
+  {
+    "id": "Category:Multiplicative_functions",
+    "name": "Category:Multiplicative functions",
+    "category": true
+  },
+  {
+    "id": "Category:Number_theory_stubs",
+    "name": "Category:Number theory stubs",
+    "category": true
+  },
+  {
+    "id": "Category:P-adic_numbers",
+    "name": "Category:P-adic numbers",
+    "category": true
+  },
+  {
+    "id": "Category:Prime_numbers",
+    "name": "Category:Prime numbers",
+    "category": true
+  },
+  {
+    "id": "Category:Quadratic_forms",
+    "name": "Category:Quadratic forms",
+    "category": true
+  },
+  {
+    "id": "Category:Squares_in_number_theory",
+    "name": "Category:Squares in number theory",
+    "category": true
+  },
+  {
+    "id": "Category:Theorems_in_number_theory",
+    "name": "Category:Theorems in number theory",
+    "category": true
+  },
+  {
+    "id": "Coprime_integers",
+    "name": "Coprime integers",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Disquisitiones_Arithmeticae",
+    "name": "Disquisitiones Arithmeticae",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "N%C3%A9ron_model",
+    "name": "Nron model",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "P-adic_analysis",
+    "name": "p-adic analysis",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Quadratic_reciprocity",
+    "name": "Quadratic reciprocity",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Category:Number_theory",
+    "name": "Category:Number theory",
+    "category": true
+  },
+  {
+    "id": "Category:Closure_operators",
+    "name": "Category:Closure operators",
+    "category": true
+  },
+  {
+    "id": "Category:Domain_theory",
+    "name": "Category:Domain theory",
+    "category": true
+  },
+  {
+    "id": "Category:Lattice_theory",
+    "name": "Category:Lattice theory",
+    "category": true
+  },
+  {
+    "id": "Category:Optimization_of_ordered_sets",
+    "name": "Category:Optimization of ordered sets",
+    "category": true
+  },
+  {
+    "id": "Category:Ordered_algebraic_structures",
+    "name": "Category:Ordered algebraic structures",
+    "category": true
+  },
+  {
+    "id": "Category:Ordered_groups",
+    "name": "Category:Ordered groups",
+    "category": true
+  },
+  {
+    "id": "Category:Ordinal_numbers",
+    "name": "Category:Ordinal numbers",
+    "category": true
+  },
+  {
+    "id": "Category:Sorting_algorithms",
+    "name": "Category:Sorting algorithms",
+    "category": true
+  },
+  {
+    "id": "Category:Wellfoundedness",
+    "name": "Category:Wellfoundedness",
+    "category": true
+  },
+  {
+    "id": "Cofinality",
+    "name": "Cofinality",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Fence_(mathematics)",
+    "name": "Fence (mathematics)",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Interval_(mathematics)",
+    "name": "Interval (mathematics)",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Least-upper-bound_property",
+    "name": "Least-upper-bound property",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Order_theory",
+    "name": "Order theory",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Partially_ordered_set",
+    "name": "Partially ordered set",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Well-order",
+    "name": "Well-order",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Zorn%27s_lemma",
+    "name": "Zorn's lemma",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Category:Order_theory",
+    "name": "Category:Order theory",
+    "category": true
+  },
+  {
+    "id": "Category:History_of_probability_and_statistics",
+    "name": "Category:History of probability and statistics",
+    "category": true
+  },
+  {
+    "id": "Category:Probability",
+    "name": "Category:Probability",
+    "category": true
+  },
+  {
+    "id": "Category:Statistics",
+    "name": "Category:Statistics",
+    "category": true
+  },
+  {
+    "id": "Category:Probability_and_statistics",
+    "name": "Category:Probability and statistics",
+    "category": true
+  },
+  {
+    "id": "Category:Arithmetic_dynamics",
+    "name": "Category:Arithmetic dynamics",
+    "category": true
+  },
+  {
+    "id": "Category:Cellular_automata",
+    "name": "Category:Cellular automata",
+    "category": true
+  },
+  {
+    "id": "Category:Combinatorial_game_theory",
+    "name": "Category:Combinatorial game theory",
+    "category": true
+  },
+  {
+    "id": "Category:Integer_sequences",
+    "name": "Category:Integer sequences",
+    "category": true
+  },
+  {
+    "id": "Category:Latin_squares",
+    "name": "Category:Latin squares",
+    "category": true
+  },
+  {
+    "id": "Category:Logic_puzzles",
+    "name": "Category:Logic puzzles",
+    "category": true
+  },
+  {
+    "id": "Category:Magic_squares",
+    "name": "Category:Magic squares",
+    "category": true
+  },
+  {
+    "id": "Category:Mathematical_chess_problems",
+    "name": "Category:Mathematical chess problems",
+    "category": true
+  },
+  {
+    "id": "Category:Mathematical_games",
+    "name": "Category:Mathematical games",
+    "category": true
+  },
+  {
+    "id": "Category:Mathematics_fiction_books",
+    "name": "Category:Mathematics fiction books",
+    "category": true
+  },
+  {
+    "id": "Category:Mechanical_puzzles",
+    "name": "Category:Mechanical puzzles",
+    "category": true
+  },
+  {
+    "id": "Category:Paper_folding",
+    "name": "Category:Paper folding",
+    "category": true
+  },
+  {
+    "id": "Category:Tiling_puzzles",
+    "name": "Category:Tiling puzzles",
+    "category": true
+  },
+  {
+    "id": "Category:Recreational_mathematics",
+    "name": "Category:Recreational mathematics",
+    "category": true
+  },
+  {
+    "id": "Category:Algebras",
+    "name": "Category:Algebras",
+    "category": true
+  },
+  {
+    "id": "Category:Clifford_algebras",
+    "name": "Category:Clifford algebras",
+    "category": true
+  },
+  {
+    "id": "Category:Harmonic_analysis",
+    "name": "Category:Harmonic analysis",
+    "category": true
+  },
+  {
+    "id": "Category:Invariant_subspaces",
+    "name": "Category:Invariant subspaces",
+    "category": true
+  },
+  {
+    "id": "Category:Invariant_theory",
+    "name": "Category:Invariant theory",
+    "category": true
+  },
+  {
+    "id": "Category:Langlands_program",
+    "name": "Category:Langlands program",
+    "category": true
+  },
+  {
+    "id": "Category:Module_theory",
+    "name": "Category:Module theory",
+    "category": true
+  },
+  {
+    "id": "Category:Representation_theory_of_Lie_algebras",
+    "name": "Category:Representation theory of Lie algebras",
+    "category": true
+  },
+  {
+    "id": "Category:Representation_theory_of_groups",
+    "name": "Category:Representation theory of groups",
+    "category": true
+  },
+  {
+    "id": "Category:Theorems_in_representation_theory",
+    "name": "Category:Theorems in representation theory",
+    "category": true
+  },
+  {
+    "id": "Group_representation",
+    "name": "Group representation",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Oscillator_representation",
+    "name": "Oscillator representation",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Representation_theory",
+    "name": "Representation theory",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Category:Representation_theory",
+    "name": "Category:Representation theory",
+    "category": true
+  },
+  {
+    "id": "Ball_(mathematics)",
+    "name": "Ball (mathematics)",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Banach_fixed-point_theorem",
+    "name": "Banach fixed-point theorem",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Category:Algebraic_topology",
+    "name": "Category:Algebraic topology",
+    "category": true
+  },
+  {
+    "id": "Category:Compactification_(mathematics)",
+    "name": "Category:Compactification (mathematics)",
+    "category": true
+  },
+  {
+    "id": "Category:Computational_topology",
+    "name": "Category:Computational topology",
+    "category": true
+  },
+  {
+    "id": "Category:Continuous_mappings",
+    "name": "Category:Continuous mappings",
+    "category": true
+  },
+  {
+    "id": "Category:Differential_topology",
+    "name": "Category:Differential topology",
+    "category": true
+  },
+  {
+    "id": "Category:Fixed_points_(mathematics)",
+    "name": "Category:Fixed points (mathematics)",
+    "category": true
+  },
+  {
+    "id": "Category:General_topology",
+    "name": "Category:General topology",
+    "category": true
+  },
+  {
+    "id": "Category:Geometric_topology",
+    "name": "Category:Geometric topology",
+    "category": true
+  },
+  {
+    "id": "Category:Homeomorphisms",
+    "name": "Category:Homeomorphisms",
+    "category": true
+  },
+  {
+    "id": "Category:Limit_sets",
+    "name": "Category:Limit sets",
+    "category": true
+  },
+  {
+    "id": "Category:Low-dimensional_topology",
+    "name": "Category:Low-dimensional topology",
+    "category": true
+  },
+  {
+    "id": "Category:Manifolds",
+    "name": "Category:Manifolds",
+    "category": true
+  },
+  {
+    "id": "Category:Molecular_topology",
+    "name": "Category:Molecular topology",
+    "category": true
+  },
+  {
+    "id": "Category:Network_topology",
+    "name": "Category:Network topology",
+    "category": true
+  },
+  {
+    "id": "Category:Orientation_(geometry)",
+    "name": "Category:Orientation (geometry)",
+    "category": true
+  },
+  {
+    "id": "Category:Sheaf_theory",
+    "name": "Category:Sheaf theory",
+    "category": true
+  },
+  {
+    "id": "Category:Theorems_in_topology",
+    "name": "Category:Theorems in topology",
+    "category": true
+  },
+  {
+    "id": "Category:Topological_algebra",
+    "name": "Category:Topological algebra",
+    "category": true
+  },
+  {
+    "id": "Category:Topological_dynamics",
+    "name": "Category:Topological dynamics",
+    "category": true
+  },
+  {
+    "id": "Category:Topological_graph_theory",
+    "name": "Category:Topological graph theory",
+    "category": true
+  },
+  {
+    "id": "Category:Topology_stubs",
+    "name": "Category:Topology stubs",
+    "category": true
+  },
+  {
+    "id": "Category:Toroidal_polyhedra",
+    "name": "Category:Toroidal polyhedra",
+    "category": true
+  },
+  {
+    "id": "Category:Trees_(topology)",
+    "name": "Category:Trees (topology)",
+    "category": true
+  },
+  {
+    "id": "Category:Uniform_spaces",
+    "name": "Category:Uniform spaces",
+    "category": true
+  },
+  {
+    "id": "Cauchy_sequence",
+    "name": "Cauchy sequence",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Compact_space",
+    "name": "Compact space",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Fractal",
+    "name": "Fractal",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top",
+        "csci": "low",
+        "comp": "low"
+      }
+    ]
+  },
+  {
+    "id": "General_topology",
+    "name": "General topology",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Genus_(mathematics)",
+    "name": "Genus (mathematics)",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Germ_(mathematics)",
+    "name": "Germ (mathematics)",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Manifold",
+    "name": "Manifold",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Metric_(mathematics)",
+    "name": "Metric (mathematics)",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Topological_space",
+    "name": "Topological space",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Topology",
+    "name": "Topology",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Category:Topology",
+    "name": "Category:Topology",
+    "category": true
+  },
+  {
+    "id": "Glossary_of_areas_of_mathematics",
+    "name": "Glossary of areas of mathematics",
+    "category": false,
+    "ratings": [
+      {
+        "math": "high"
+      }
+    ]
+  },
+  {
+    "id": "Glossary_of_calculus",
+    "name": "Glossary of calculus",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  },
+  {
+    "id": "Outline_of_mathematics",
+    "name": "Outline of mathematics",
+    "category": false,
+    "ratings": [
+      {
+        "math": "top"
+      }
+    ]
+  }
+]
