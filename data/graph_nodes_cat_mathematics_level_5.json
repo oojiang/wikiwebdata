@@ -1,5 +1,10 @@
 [
   {
+    "id": "Category:Fields_of_mathematics",
+    "name": "Category:Fields of mathematics",
+    "category": true
+  },
+  {
     "id": "Algebraic_geometry",
     "name": "Algebraic geometry",
     "category": false,
